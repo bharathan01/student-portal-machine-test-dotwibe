@@ -34,8 +34,8 @@ class Signin extends Controller
             ];
             $success = $this->fetchUserInfo($userInfo);
             if ($success) {
-                $_SESSION['userId'] = $success['userId'];
-                header("location:home");
+                // $_SESSION['userId'] = $success['userId'];
+                // header("location:home");
             }
         }
     }
