@@ -1,3 +1,5 @@
+Demo images -https://github.com/bharathan01/student-portal-machine-test-dotwibe/tree/master/demo%20images
+
 Student Portal
 Overview
 This project is a Student Portal application built using PHP. It follows the MVC (Model-View-Controller) architecture to separate concerns and ensure a modular structure.
