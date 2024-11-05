@@ -1,0 +1,8 @@
+.admission-form {
+  width: 400px;
+}
+.admission-form button img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}

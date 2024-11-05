@@ -1,0 +1,11 @@
+.nav-bar{
+    gap: 30px;
+}
+
+.nav-bar a {
+    color: var(--white);
+    text-decoration: none;
+  }
+  .nav-bar ul {
+    list-style: none;
+  }
